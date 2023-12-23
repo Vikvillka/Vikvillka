@@ -1,4 +1,5 @@
 <h1 align="left">Hi, I'm Vika 👾</h1>
+## 🚀 About Me
 <h3 align="left">I am a second-year student at the Belarusian State Technological University and a beginner programmer. Welcome to my GitHub profile!</h3>
 
 <h3 align="left">Connect with me:</h3>
