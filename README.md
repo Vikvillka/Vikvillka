@@ -12,21 +12,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikvillka&theme=radical&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="vikvillka" /></p>
 
-<div style="display: flex; align-items: flex-start;">
-  <div>
-    <h3 align="left">🛠 Languages and Tools:</h3>
-    <p align="left">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-      <!-- Другие значки языков и инструментов -->
-    </p>
-  </div>
-  <div>
-    <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikvillka&theme=radical&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="vikvillka"/>
-    </p>
-  </div>
-</div>
 
 
