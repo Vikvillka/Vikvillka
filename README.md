@@ -12,8 +12,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikvillka&show_icons=true&locale=en&layout=compact" alt="vikvillka" /></p>
 
 
-<div align="center" style="margin: 40px">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=vikvillka3&color=DE002D">
-   </a>
-</div>
+
