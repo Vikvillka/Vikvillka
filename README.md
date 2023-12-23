@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Vika <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 <h3 align="left">I am a second-year student at the Belarusian State Technological University and a beginner programmer.</h3>
-<h2> <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100"> Welcome to my GitHub profile! </h2>
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200"> Welcome to my GitHub profile! </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   - 📫 How to reach me 
