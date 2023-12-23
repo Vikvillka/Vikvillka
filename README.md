@@ -1,6 +1,6 @@
-<h1 align="left">Hi, I'm Vika 👾</h1>
+<h1 align="left">Hi, I'm Vika <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /></h1>
 <h3 align="left">I am a second-year student at the Belarusian State Technological University and a beginner programmer.</h3>
-<h2> <img src="https://media.giphy.com/media/f2HiQKaEkaKwo/giphy.gif?cid=82a1493b7bamvcrxp3suc19o3zaf9wppw0b76wwxtfekg4i2&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="30" /> Welcome to my GitHub profile! </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome to my GitHub profile! </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   - 📫 How to reach me 
