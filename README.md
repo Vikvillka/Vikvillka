@@ -1,14 +1,28 @@
-<h1 align="left">Hi 👋, I'm Vika</h1>
-## <h3 align="left">I am a second-year student at the Belarusian State Technological University and a beginner programmer. Welcome to my GitHub profile!</h3>
+<h1 align="center">👋 Привет, я Вика</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  - 📫 How to reach me **bychkovskayavic@gmail.com**
+<p align="center">
+  <img src="profile-image.jpg" alt="Profile Image" width="200px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h3 align="center">Студентка 2 курса Белорусского Государственного Технологического Университета и начинающий программист</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikvillka&show_icons=true&locale=en&layout=compact" alt="vikvillka" /></p>
+<p align="center">
+  Добро пожаловать на мой GitHub профиль! Здесь я делюсь своими проектами, исследую новые технологии и учусь все больше и больше каждый день.
+</p>
 
+<h4 align="center">Мои навыки:</h4>
 
+<p align="center">
+  <img src="skills/html.svg" alt="HTML" width="40px">&nbsp;&nbsp;
+  <img src="skills/css.svg" alt="CSS" width="40px">&nbsp;&nbsp;
+  <img src="skills/javascript.svg" alt="JavaScript" width="40px">&nbsp;&nbsp;
+  <img src="skills/python.svg" alt="Python" width="40px">&nbsp;&nbsp;
+</p>
+
+<h4 align="center">Свяжитесь со мной:</h4>
+
+<p align="center">
+  <a href="mailto:vika@example.com"><img src="contact/email.svg" alt="Email" width="30px"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vika"><img src="contact/linkedin.svg" alt="LinkedIn" width="30px"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/vika"><img src="contact/twitter.svg" alt="Twitter" width="30px"></a>&nbsp;&nbsp;
+</p>
