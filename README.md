@@ -23,7 +23,7 @@
     </p>
   </div>
   <div>
-    <p align="left">
+    <p align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikvillka&theme=radical&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="vikvillka"/>
     </p>
   </div>
